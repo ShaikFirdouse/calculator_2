@@ -1,0 +1,61 @@
+#border{
+    height: 620px;
+    width: 310px;
+    background-color: black;
+    border-radius: 28px;
+}
+#result{
+    height: 100px;
+    width: 260px;
+    background: none;
+    border: 1.5px solid whitesmoke;
+    color: white;
+    font-size: 40px;
+    border-radius: 15px;
+    text-align: right;
+}
+#letter1{
+    height: 60px;
+    width: 60px;
+    justify-items: center;
+    font-size: 30px;
+    border-radius: 25px;
+    background: none;
+    color: white;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px white;
+    border: none;
+}
+#letter1:hover{
+    background-color: white;
+    color: black;
+}
+#letter0{
+    height: 60px;
+    width: 60px;
+    justify-items: center;
+    font-size: 30px;
+    border-radius: 25px;
+    background: none;
+    color: white;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px white;
+    border: none;
+}
+#letter0:hover{
+    background-color: white;
+    color: black;
+}
+#Result{
+    height: 60px;
+    width: 60px;
+    justify-items: center;
+    font-size: 30px;
+    border-radius: 25px;
+    background: none;
+    color: white;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px white;
+    border: none;
+}
+#Result:hover{
+    background-color: white;
+    color: black;
+}
